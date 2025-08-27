@@ -17,7 +17,7 @@ export function About() {
             About Me
           </span>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Developer Focused on
+            Dev Focused on
             <span className="text-purple-400"> Technology</span>
           </h2>
         </div>
