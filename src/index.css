@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Rolagem suave para âncoras (#about, #contact, etc.) */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #111827; 
+  scroll-behavior: smooth;
+}
